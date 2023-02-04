@@ -1,0 +1,30 @@
+.myHeader-prof{
+    color: blue;
+    background-color: aliceblue;
+    text-align:right;
+}
+
+.myHeader-name{
+    color: blue;
+    background-color: aliceblue;
+    text-align:left;
+}
+
+.footer-class {
+  background-color: gray;
+  text-align: center;
+  color: white;
+}
+
+.my-navbar {
+  overflow: hidden;
+  background-color: gray;
+}
+
+.my-navbar a {
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px 15px;
+}
